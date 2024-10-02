@@ -73,4 +73,4 @@ You have installed the source code from the Releases. Instead, install from the 
   Replace ***YourUserName*** with your actual username and ***BlenderVersion*** with the version of Blender you are using.
 
 ## BUGS / SUGGESTIONS
-If you have found a bug or have suggestions to improve the tool, you can contact me on Discord: [@shotariya](https://discordapp.com/users/275608234595713024)
+If you have found a bug please read this first: https://github.com/teamneoneko/material-combiner-addon/issues/1
