@@ -2,9 +2,9 @@ material-combiner-addon
 ===========
 #### An addon for Blender that helps reduce draw calls in game engines by combining textures without quality loss and avoiding issues with UV bounds larger than 0-1.
 
-#### If you like an addon, you can support my work on Patreon or Buy me a coffee.
-[<img src="http://webgrimes.com/buymeacoffee.svg" height="40px">](https://www.buymeacoffee.com/shotariya)
-[<img src="http://webgrimes.com/patreon.png" height="40px">](https://www.patreon.com/join/shotariya?)
+#### The original author of this plugin is shotariya, you can find the original here: https://github.com/Grim-es/material-combiner-addon
+#### This is an unoffical version for Cats Blender Plugin, we are only bug fixing unto Avatar Toolkit comes out.
+
 
 ## FEATURES
 * **Combining Multiple Materials**: Allows you to mix diffuse colors with textures, and specify both the size of the resulting atlas and the size of each individual texture.
