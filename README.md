@@ -12,7 +12,7 @@ material-combiner-addon
 * **UV Packing**: Packs UVs into the selected scale bounds by splitting mesh faces, and is compatible with rigged models. (Not implemented in newer versions | Supported in version 1.1.6.3)
 
 ## INSTALLATION
-1. Download an addon: [Material-combiner](https://github.com/Grim-es/material-combiner-addon/archive/master.zip).
+1. Download an addon: [Material-combiner](https://github.com/teamneoneko/material-combiner-addon/archive/refs/heads/master.zip).
 2. Go to File > User Preferences > Addons.
 3. Click on Install Add-on from File.
 4. Choose `material-combiner-addon-master.zip` archive.
